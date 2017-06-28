@@ -1,0 +1,92 @@
+body	{
+	font-family: 'Open Sans', sans-serif;
+}
+
+nav	{
+
+}
+
+.header	{
+	text-align: center;
+
+}
+
+.button	{
+	background-color: #f9e42e;
+	color: #033048;
+	font-size: 14px;
+	font-weight: 800;
+	text-align: center;
+	border-radius: 5px;
+	border: none;
+	height: 60px;
+	width: 260px;
+}
+
+.benefits	{
+	background-color: #f0efef;
+}
+
+h1	{
+	color: #fff;
+	font-size: 24px;
+	font-weight: 800;
+	padding: 40px, 0, 0, 20px;
+}
+
+h2	{
+	color: #033048;
+	font-size: 24px;
+	font-weight: 600;
+	text-align: center;
+}
+
+p	{
+	color: #606161;
+	font-size: 13px;
+	font-weight: 300;
+}
+
+li {
+	color: #606161;
+	font-size: 13px;
+	font-weight: 300;
+}
+
+.quote	{
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+	background-color: black;
+	text-align: center;
+}
+
+.signup	{
+	color: #fff;
+	font-size: 182px;
+	font-weight: 800;
+	background-color: #f9e42e;
+	height: 120px;
+	text-align: center;
+
+}
+
+.buttonSignup	{
+	background-color: #033048;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 800;
+	text-align: center;
+	border-radius: 5px;
+	border: none;
+	height: 60px;
+	width: 260px;
+}
+
+footer	{
+	background-color: #121212;
+	font-size: 9px;
+	font-weight: 600;
+	text-align: center;
+	height: 350px;
+}
